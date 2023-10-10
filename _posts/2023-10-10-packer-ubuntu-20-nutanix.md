@@ -12,7 +12,7 @@ image:
   alt: Building image of ubuntu 20.04 with Packer for Nutanix.
 ---
 
-# Creating an Ubuntu 22 Image with Packer for Nutanix
+# Creating an Ubuntu 20 Image with Packer for Nutanix
 
 
 ## Requirements
