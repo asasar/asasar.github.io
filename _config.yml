@@ -16,7 +16,7 @@ timezone: Europe/Paris
 
 title: Play with clouds # the main title
 
-tagline: My notes of DevOps and Clouds # it will display as the sub-title
+tagline: DevOps Cloud # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Cloud Devops Azure AWS Nutanix Hyper-v.
