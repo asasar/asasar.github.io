@@ -1,7 +1,7 @@
 ---
-title: Building image of ubuntu 20.04 with Packer for Nutanix
+title: Building image of ubuntu 20 with Packer for Nutanix
 author: asasar
-date: 2023-01-10 03:33:00 +0800
+date: 2023-01-10
 categories: [Packer, Ubuntu, Nutanix]
 tags: [Nutanix, Packer, Ubuntu]
 pin: true
